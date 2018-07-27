@@ -1,3 +1,8 @@
+# Copyright
+
+Copyright (c) 2015-2017 Ivo Wetzel
+Copyright (c) 2018 Google LLC.
+
 # cursive-tree-view
 
 [![cursive-tree-view on crates.io][cratesio-image]][cratesio]
@@ -46,15 +51,11 @@ features = ["blt-backend"]
 
 ## License
 
-Licensed under either of
- * Apache License, Version 2.0 ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
- * MIT license ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
-at your option.
+Licensed under Apache License, Version 2.0 ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
 
 
 ### Contribution
 
 Unless you explicitly state otherwise, any contribution intentionally submitted
-for inclusion in the work by you shall be dual licensed as above, without any
+for inclusion in the work by you shall be licensed as above, without any
 additional terms or conditions.
-
