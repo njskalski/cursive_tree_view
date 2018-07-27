@@ -1,6 +1,7 @@
 # Copyright
 
 Copyright (c) 2015-2017 Ivo Wetzel
+
 Copyright (c) 2018 Google LLC.
 
 # cursive-tree-view
