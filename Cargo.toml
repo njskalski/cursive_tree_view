@@ -1,5 +1,5 @@
 [package]
-name = "cursive_tree_view_nj"
+name = "cursive_tree_view"
 version = "0.2.2"
 authors = ["Ivo Wetzel <ivo.wetzel@googlemail.com>", "Google LLC <njskalski@google.com>"]
 description = "A tree view implementation for cursive. Fork of https://github.com/BonsaiDen/cursive_tree_view.git updated by NJ Skalski"
