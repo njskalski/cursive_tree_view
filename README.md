@@ -1,7 +1,6 @@
 # Copyright
 
 Copyright (c) 2015-2017 Ivo Wetzel
-
 Copyright (c) 2018 Google LLC.
 
 # cursive-tree-view
@@ -40,7 +39,7 @@ the identical features to your `cursive_tree_view` dependency:
 
 ```toml
 [dependencies.cursive]
-version = "0.8"
+version = "0.9"
 default-features = false
 features = ["blt-backend"]
 
