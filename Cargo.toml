@@ -12,6 +12,8 @@ license = "Apache-2.0"
 [dependencies]
 debug_stub_derive = "0.3.0"
 #cursive = { version = "0.10", default-features = false }
+
+[dependencies.cursive]
 git = "https://github.com/njskalski/Cursive"
 branch = "fix_ncurses_widechars"
 
