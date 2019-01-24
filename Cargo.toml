@@ -11,7 +11,17 @@ license = "Apache-2.0"
 
 [dependencies]
 debug_stub_derive = "0.3.0"
-cursive = { version = "0.10", default-features = false }
+#cursive = { version = "0.10.0", default-features = false }
+
+[dependencies.cursive]
+#version = "0.10.0"
+default-features = false
+git = "https://github.com/njskalski/Cursive.git"
+#tag = "0.10.0"
+branch = "test_backend"
+#path = ["~/r/Cursive"]
+#features = ["termion-backend"]
+
 
 [features]
 default = ["ncurses-backend"]
